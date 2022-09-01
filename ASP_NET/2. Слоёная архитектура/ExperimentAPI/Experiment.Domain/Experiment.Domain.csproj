@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Interfaces\Presentation\Новая папка\**" />
+      <EmbeddedResource Remove="Interfaces\Presentation\Новая папка\**" />
+      <None Remove="Interfaces\Presentation\Новая папка\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Interfaces\Presentation\" />
+    </ItemGroup>
+
+</Project>

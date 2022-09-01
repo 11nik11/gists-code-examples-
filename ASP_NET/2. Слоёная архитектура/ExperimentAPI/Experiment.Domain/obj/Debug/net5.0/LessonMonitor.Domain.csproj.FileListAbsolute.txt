@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\bin\Debug\net5.0\LessonMonitor.Domain.deps.json
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\bin\Debug\net5.0\LessonMonitor.Domain.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\bin\Debug\net5.0\LessonMonitor.Domain.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\LessonMonitor.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\LessonMonitor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\LessonMonitor.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\LessonMonitor.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\LessonMonitor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\LessonMonitor.Domain.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\refint\LessonMonitor.Domain.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\LessonMonitor.Domain.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.Domain\obj\Debug\net5.0\ref\LessonMonitor.Domain.dll

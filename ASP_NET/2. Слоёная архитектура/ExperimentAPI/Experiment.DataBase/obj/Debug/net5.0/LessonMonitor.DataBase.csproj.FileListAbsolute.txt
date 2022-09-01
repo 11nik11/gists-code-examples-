@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\bin\Debug\net5.0\LessonMonitor.DataBase.deps.json
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\bin\Debug\net5.0\LessonMonitor.DataBase.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\bin\Debug\net5.0\LessonMonitor.DataBase.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\bin\Debug\net5.0\LessonMonitor.Domain.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\bin\Debug\net5.0\LessonMonitor.Domain.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.csproj.CopyComplete
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\refint\LessonMonitor.DataBase.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\LessonMonitor.DataBase.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataBase\obj\Debug\net5.0\ref\LessonMonitor.DataBase.dll

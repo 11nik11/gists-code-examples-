@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\bin\Debug\net5.0\LessonMonitor.DataAccess.deps.json
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\bin\Debug\net5.0\LessonMonitor.DataAccess.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\bin\Debug\net5.0\LessonMonitor.DataAccess.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\bin\Debug\net5.0\LessonMonitor.DataBase.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\bin\Debug\net5.0\LessonMonitor.Domain.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\bin\Debug\net5.0\LessonMonitor.DataBase.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\bin\Debug\net5.0\LessonMonitor.Domain.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.csproj.CopyComplete
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\refint\LessonMonitor.DataAccess.dll
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\LessonMonitor.DataAccess.pdb
+C:\Users\DELL\Desktop\LessonMonitor-homework-aspnet-4\Experiment\LessonMonitor.DataAccess\obj\Debug\net5.0\ref\LessonMonitor.DataAccess.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LessonMonitor.BL/1.0.0": {
+        "dependencies": {
+          "LessonMonitor.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LessonMonitor.BL.dll": {}
+        }
+      },
+      "LessonMonitor.Domain/1.0.0": {
+        "runtime": {
+          "LessonMonitor.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LessonMonitor.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LessonMonitor.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Experiment.DataAccess/1.0.0": {
+        "dependencies": {
+          "Experiment.DataBase": "1.0.0",
+          "Experiment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Experiment.DataAccess.dll": {}
+        }
+      },
+      "Experiment.DataBase/1.0.0": {
+        "dependencies": {
+          "Experiment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Experiment.DataBase.dll": {}
+        }
+      },
+      "Experiment.Domain/1.0.0": {
+        "runtime": {
+          "Experiment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Experiment.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Experiment.DataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Experiment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

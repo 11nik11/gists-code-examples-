@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LessonMonitor.DataAccess/1.0.0": {
+        "dependencies": {
+          "LessonMonitor.DataBase": "1.0.0",
+          "LessonMonitor.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LessonMonitor.DataAccess.dll": {}
+        }
+      },
+      "LessonMonitor.DataBase/1.0.0": {
+        "dependencies": {
+          "LessonMonitor.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LessonMonitor.DataBase.dll": {}
+        }
+      },
+      "LessonMonitor.Domain/1.0.0": {
+        "runtime": {
+          "LessonMonitor.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LessonMonitor.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LessonMonitor.DataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LessonMonitor.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

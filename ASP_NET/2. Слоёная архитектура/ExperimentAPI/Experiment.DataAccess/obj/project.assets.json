@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Experiment.DataBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Experiment.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Experiment.DataBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Experiment.DataBase.dll": {}
+        }
+      },
+      "Experiment.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Experiment.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Experiment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Experiment.DataBase/1.0.0": {
+      "type": "project",
+      "path": "../Experiment.DataBase/Experiment.DataBase.csproj",
+      "msbuildProject": "../Experiment.DataBase/Experiment.DataBase.csproj"
+    },
+    "Experiment.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Experiment.Domain/Experiment.Domain.csproj",
+      "msbuildProject": "../Experiment.Domain/Experiment.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Experiment.DataBase >= 1.0.0",
+      "Experiment.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\LessonMonitor-homework-aspnet-4\\Experiment\\Experiment.DataAccess\\Experiment.DataAccess.csproj",
+      "projectName": "Experiment.DataAccess",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\LessonMonitor-homework-aspnet-4\\Experiment\\Experiment.DataAccess\\Experiment.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\LessonMonitor-homework-aspnet-4\\Experiment\\Experiment.DataAccess\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\DELL\\Desktop\\LessonMonitor-homework-aspnet-4\\Experiment\\Experiment.DataBase\\Experiment.DataBase.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\LessonMonitor-homework-aspnet-4\\Experiment\\Experiment.DataBase\\Experiment.DataBase.csproj"
+            },
+            "C:\\Users\\DELL\\Desktop\\LessonMonitor-homework-aspnet-4\\Experiment\\Experiment.Domain\\Experiment.Domain.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\LessonMonitor-homework-aspnet-4\\Experiment\\Experiment.Domain\\Experiment.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
